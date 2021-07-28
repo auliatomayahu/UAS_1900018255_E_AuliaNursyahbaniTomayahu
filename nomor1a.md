@@ -1,5 +1,5 @@
 Pengertian :
-Single-Responsibility Principle (SRP) adalah prinsip pemrograman komputer yang 
+<br> Single-Responsibility Principle (SRP) adalah prinsip pemrograman komputer yang 
 menyatakan bahwa setiap modul, kelas, atau fungsi dalam program komputer harus 
 memiliki tanggung jawab atas satu bagian dari fungsi program tersebut dan harus 
 merangkum bagian tersebut. Semua layanan modul, kelas, atau fungsi harus diselaraskan 
