@@ -8,7 +8,7 @@ berbunyi, "Sebuah kelas seharusnya hanya memiliki satu alasan untuk berubah." Da
 beberapa kesempatan, ia juga berpendapat bahwa prinsipnya dikhususkan tentang peran atau aktor. 
 
 Penjelasan :
-Dalam tipe statis dan bahasa yang dikompilasi, beberapa alasan dapat menyebabkan 
+<br> Dalam tipe statis dan bahasa yang dikompilasi, beberapa alasan dapat menyebabkan 
 beberapa perubahan yang tidak diinginkan. Jika ada dua alasan yang berbeda untuk 
 perubahan, bisa dibayangkan bahwa dua tim yang berbeda mungkin bekerja pada kode 
 yang sama untuk dua alasan yang berbeda sehingga dapat mengakibatkan tidak kompatibelnya 
@@ -22,12 +22,12 @@ keluarga fungsi yang melayani mereka. Ketika kebutuhan mereka berubah, keluarga 
 spesifik juga harus berubah untuk mengakomodasi kebutuhan mereka.
 
 Pencetus : Robert C. Martin
-“Sebuah class sebaiknya hanya memiliki satu alasan untuk perubahan.”
-“Responsibility adalah sebuah keluarga fungsi yang melayani satu aktor tertentu.”
-“Aktor untuk responsibility adalah satu-satunya sumber perubahan untuk responsibility itu.”
+<br> “Sebuah class sebaiknya hanya memiliki satu alasan untuk perubahan.”
+<br> “Responsibility adalah sebuah keluarga fungsi yang melayani satu aktor tertentu.”
+<br> “Aktor untuk responsibility adalah satu-satunya sumber perubahan untuk responsibility itu.”
 
 Keuntungan :
-Rancangan yang dihasilkan tetap dapat memberikan faktor kohesi yang tinggi. 
+<br> Rancangan yang dihasilkan tetap dapat memberikan faktor kohesi yang tinggi. 
 Kohesi dalam perangkat lunak merujuk pada pemahaman tentang seberapa dekat 
 hubungan ketergantungan antara method (fungsi) dan atribut dalam sebuah class.  
 Sebuah class akan memiliki kohesi tinggi jika menggunakan method-method dan 
